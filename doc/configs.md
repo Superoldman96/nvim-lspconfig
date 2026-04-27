@@ -11885,7 +11885,7 @@ vim.lsp.enable('spade_ls')
 Default config:
 - `cmd` :
   ```lua
-  { "lua-language-server" }
+  { "spade-language-server" }
   ```
 - `filetypes` :
   ```lua

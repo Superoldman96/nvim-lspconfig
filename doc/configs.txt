@@ -8856,7 +8856,7 @@ Snippet to enable the language server: >lua
 
 Default config:
 - cmd: >lua
-  { "lua-language-server" }
+  { "spade-language-server" }
 - filetypes: >lua
   { "spade" }
 - root_markers: >lua
