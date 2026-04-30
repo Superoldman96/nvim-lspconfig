@@ -4949,7 +4949,7 @@ Snippet to enable the language server: >lua
 
 Default config:
 - cmd: >lua
-  { "kotlin-lsp", "--stdio" }
+  { "intellij-server", "--stdio" }
 - filetypes: >lua
   { "kotlin" }
 - root_markers: >lua

@@ -6801,7 +6801,7 @@ vim.lsp.enable('kotlin_lsp')
 Default config:
 - `cmd` :
   ```lua
-  { "kotlin-lsp", "--stdio" }
+  { "intellij-server", "--stdio" }
   ```
 - `filetypes` :
   ```lua
